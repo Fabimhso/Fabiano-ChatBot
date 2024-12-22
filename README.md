@@ -22,3 +22,4 @@ It will cost you a few dollars to use daily.
 
 ## API KEY
 
+![image](https://github.com/Fabimhso/Fabiano-ChatBot/issues/2#issue-2754428004)

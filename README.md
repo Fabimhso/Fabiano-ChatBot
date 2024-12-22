@@ -16,7 +16,7 @@ Chat has been programmed to respond as if a support agent.
 
 ## CONSIDERATIONS
 
-To use this chat, you will need to generate an API Key on the [ChatGPT Plataform]([https://platform.openai.com/api-keys])
+To use this chat, you will need to generate an API Key on the [ChatGPT Plataform](https://platform.openai.com/api-keys)
 
 It will cost you a few dollars to use daily.
 

@@ -44,7 +44,7 @@ You will need to have Python installed! If not, click here to [install the Pytho
 
 You will also need to have Streamlit and OpenAI installed. In your IDE terminal type:
 
-<sub>pip install streamlit__</sub>
+<sub>__pip install streamlit__</sub>
 <br/>
 <sub>__pip install openai__</sub>
 

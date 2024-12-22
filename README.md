@@ -9,3 +9,7 @@ Chat has been programmed to respond as if a support agent.
 - Python
 - ChatGPT API
 - Streamlit.io
+
+# PROJECT PHOTOS
+
+![image](https://github.com/user-attachments/assets/663fc101-e81b-47ed-8cc6-c13fa374d7d5)

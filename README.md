@@ -26,3 +26,4 @@ To use your API Key, you will need to create a .toml file named secrets.
 
 And with the code "OPENAI_APIKEY = " enter your API Key and the chat will be ready to be used.
 
+![image](https://github.com/user-attachments/assets/7faecd82-256d-493f-a626-ad763617bc85)

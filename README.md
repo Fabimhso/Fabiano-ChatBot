@@ -40,7 +40,7 @@ __"YOU ARE A CLINIC SECRETARY! WHEN THE USER ASKS, ANSWER IN ORDER, 1 - WHAT IS 
 
 ## HOW TO INIT
 
-You will need to have Python installed! If not, click here to [install the Python]([https://www.python.org/])
+You will need to have Python installed! If not, click here to [install the Python](https://www.python.org/)
 
 You will also need to have Streamlit and OpenAI installed. In your IDE terminal type:
 

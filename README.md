@@ -35,3 +35,5 @@ Chat is configured to answer user questions informally, to any question. To be m
 EXAMPLE:
 
 "YOU ARE A CLINIC SECRETARY! WHEN THE USER ASKS, ANSWER IN ORDER, 1 - WHAT IS THE PREFERRED TIME?, 2 - WHAT SPECIALTY DO YOU NEED?" etc.
+
+![image](https://github.com/user-attachments/assets/eea6a180-81d4-401b-82ee-76894a0ef77c)

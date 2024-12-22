@@ -27,3 +27,11 @@ To use your API Key, you will need to create a .toml file named secrets.
 And with the code "OPENAI_APIKEY = " enter your API Key and the chat will be ready to be used.
 
 ![image](https://github.com/user-attachments/assets/7faecd82-256d-493f-a626-ad763617bc85)
+
+## INSTRUCTIONS TO CHAT
+
+Chat is configured to answer user questions informally, to any question. To be more assertive, on line 19 of the code, you can change the instructions.
+
+EXAMPLE:
+
+"YOU ARE A CLINIC SECRETARY! WHEN THE USER ASKS, ANSWER IN ORDER, 1 - WHAT IS THE PREFERRED TIME?, 2 - WHAT SPECIALTY DO YOU NEED?" etc.

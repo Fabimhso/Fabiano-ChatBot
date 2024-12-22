@@ -16,7 +16,7 @@ Chat has been programmed to respond as if a support agent.
 
 ## CONSIDERATIONS
 
-To use this chat, you will need to generate an API Key on the [ChatGPT Plataform]([https://pages.github.com/](https://platform.openai.com/api-keys))
+To use this chat, you will need to generate an API Key on the [ChatGPT Plataform]([https://platform.openai.com/api-keys])
 
 It will cost you a few dollars to use daily.
 
@@ -34,6 +34,19 @@ Chat is configured to answer user questions informally, to any question. To be m
 
 EXAMPLE:
 
-"YOU ARE A CLINIC SECRETARY! WHEN THE USER ASKS, ANSWER IN ORDER, 1 - WHAT IS THE PREFERRED TIME?, 2 - WHAT SPECIALTY DO YOU NEED?" etc.
+__"YOU ARE A CLINIC SECRETARY! WHEN THE USER ASKS, ANSWER IN ORDER, 1 - WHAT IS THE PREFERRED TIME?, 2 - WHAT SPECIALTY DO YOU NEED?"__ etc.
 
 ![image](https://github.com/user-attachments/assets/eea6a180-81d4-401b-82ee-76894a0ef77c)
+
+## HOW TO INIT
+
+You will need to have Python installed! If not, click here to [install the Python]([https://www.python.org/])
+
+You will also need to have Streamlit and OpenAI installed. In your IDE terminal type:
+
+<sub>pip install streamlit__</sub>
+<sub>__pip install openai__</sub>
+
+To start, type in terminal:
+
+__streamlit run chatbotGPT.py__
